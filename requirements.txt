@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+langchain-ollama
+streamlit
+faiss-cpu
+PyPDF2
+python-dotenv
